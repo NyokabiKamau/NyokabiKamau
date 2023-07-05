@@ -16,7 +16,7 @@ I'm a Full-Stack Software engineer with a focus on React and Ruby on Rails. I'm 
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3 style="text-align: center" align="center" valign="top"> Currently learning</h3>
+      <h3 style="text-align: center" align="center" valign="top">📚 Currently learning</h3><br>
       <ul>
         <li><strong>Loopback</strong> and <strong>Node.js</strong> to build my backend skills</li>
         <li><strong>Figma</strong> to improve my front end design skills</li>
@@ -25,7 +25,7 @@ I'm a Full-Stack Software engineer with a focus on React and Ruby on Rails. I'm 
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>🌐 How to reach me</h3>
+      <h3>🌐 How to reach me</h3><br>
       <a href="nyokabikamau2014@gmail.com">
         <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
