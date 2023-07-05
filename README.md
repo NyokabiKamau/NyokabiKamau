@@ -5,12 +5,12 @@ I'm a Full-Stack Software engineer with a focus on React and Ruby on Rails. I'm 
 <table>
   <tr>
     <td align="center">
-    <h3>Fun Facts</h3>
+    <h3>🤩 Fun Facts</h3>
       <p>I love spending my free time listening to music or podcast</p>
       <p>Singing is one of my hidden talents</p>
     </td>
     <td align="center">
-      <h3>Languages & Tools</h3>
+      <h3>👩🏽‍💻 Languages & Tools</h3>
       <img style="text-align: center;" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vercel,vscode,git,github,githubactions,rails,ruby,postgres,sqlite&perline=4">
     </td>
   </tr>
@@ -25,7 +25,7 @@ I'm a Full-Stack Software engineer with a focus on React and Ruby on Rails. I'm 
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>How to reach me</h3>
+      <h3>🌐 How to reach me</h3>
       <a href="nyokabikamau2014@gmail.com">
         <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
