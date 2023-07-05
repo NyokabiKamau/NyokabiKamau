@@ -17,7 +17,7 @@ I'm a Full-Stack Software engineer with a focus on React and Ruby on Rails. I'm 
   <tr>
     <td colspan="2" >
       <h3 style="text-align: center" align="center" valign="top">📚 Currently learning</h3><br>
-      <ul>
+      <ul align="center" >
         <li><strong>Loopback</strong> and <img src="https://skillicons.dev/icons?i=nodejs&perline=4"> <strong>Nodejs</strong> to build my backend skills</li>
         <li><img style="text-align: center;" src="https://skillicons.dev/icons?i=figma&perline=4"> <strong>Figma</strong> to improve my front end design skills</li>
       </ul>
